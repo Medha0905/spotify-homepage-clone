@@ -1,6 +1,6 @@
-# spotify-homepage-clone
+# spotify-homepage clone
 📌 Project Title
-Spotify Front-Page UI Clone
+Spotify homepage-clone
 📖 Description
 A responsive front-page clone of Spotify built using only HTML and CSS.
 This mini project focuses on recreating the visual layout, styling, and responsiveness of Spotify’s homepage to practice frontend UI development skills.
